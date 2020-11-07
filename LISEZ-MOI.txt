@@ -1,0 +1,34 @@
+               _                   
+  ___ ___  ___| | ___   __ _  ___  
+ / __/ _ \/ __| |/ _ \ / _` |/ _ \ 
+| (_|  __/\__ \ | (_) | (_| | (_) |
+ \___\___||___/_|\___/ \__, |\___/ 
+                       |___/       
+
+Editeur de logo Cesium pour TI83 Premium CE (édition python compatible)
+
+-- UTILISATION --
+Vous pouvez utiliser ce programme pour créer des logos visibles avec Cesium.
+
+Vous devez d'abord envoyer le programme CESLOGO.8xp à votre calculette en utilisant une application comme TI-Connect ou équivalent.
+
+Pour créer un logo, lancez le programme et choisissez la couleur de départ.
+Ensuite, vous pouvez éditer votre logo avec les commandes suivantes :
+
+-- COMMANDES --
+/\, \/, > et < : déplacer le curseur.
+mode           : changer de mode de dessin. Les modes disponibles sont : pixels/pixels, édition d'un pixel à la fois et pinceau, déplacer le curseur fait changer la couleur du pixel de destination par la couleur du pixel de départ.
+2nd/alpha      : changer la couleur du pixel.
+sto>           : si une image a déjà été enregistrée, permet de la récupérer.
+suppr          : permet de changer la couleur de tout les pixels de l'image. Utiliser les touches /\ et \/ pour changer la couleur de remplacement. Utiliser enter pour valider, annul pour annuler.
+<>             : remplacer une couleur par une autre. Utiliser les flèches < et > pour changer de sélection. Utiliser les flèches /\ et \/ pour changer la couleur. Utiliser enter pour valider, annul pour annuler.
+tests          : permet d'afficher le logo tel qu'il serait vu dans cesium.
+annul          : permet de quitter l'application. Le menu de sauvegarde se trouve à cet emplacement, si l'option oui est selectionnée.
+
+-- SAUVEGARDE --
+Pour sauvegarder, utilisez la touche annul, sélectionnez oui, et dans le menu de sauvegarde sélectionnez oui.
+Il est aussi possible de sauvegarder en utilisant la touche tests, et en laissant l'option oui sélectionnée dans le menu de sauvegarde.
+
+Pour me contacter : mail@ascpial.fr
+
+Cesium is the property of © 2015 - 2020 Matt "MateoConLechuga" Waltz
